@@ -253,7 +253,7 @@ export class Config {
 	public static readonly beatsPerBarMin: number = 3;
 	public static readonly beatsPerBarMax: number = 16;
 	public static readonly barCountMin: number = 1;
-	public static readonly barCountMax: number = 128;
+	public static readonly barCountMax: number = 256;
 	public static readonly instrumentCountMin: number = 1;
 	public static readonly layeredInstrumentCountMax: number = 4;
 	public static readonly patternInstrumentCountMax: number = 10;
